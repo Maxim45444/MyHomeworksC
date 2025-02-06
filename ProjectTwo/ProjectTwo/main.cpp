@@ -10,7 +10,7 @@ void main()
 	//значение суммь, произведения и среднее
 	//арифметическое зтих чисел.
 
-	int VarOne, VarTwo, VarThree;
+	double VarOne, VarTwo, VarThree;
 	cout << "ВВедіть 3 числа" << endl;
 	cin >> VarOne >> VarTwo >> VarThree;
 	cout << "Cума всіх чисел = " << VarOne + VarTwo + VarThree<<endl;

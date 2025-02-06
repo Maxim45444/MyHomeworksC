@@ -1,1 +1,2 @@
 C:\Users\Max\Desktop\Files\Projects\Programing\C++\ProjectTwo\ProjectTwo\x64\Debug\ProjectTwo.exe
+C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\ProjectTwo\ProjectTwo\x64\Debug\ProjectTwo.exe
