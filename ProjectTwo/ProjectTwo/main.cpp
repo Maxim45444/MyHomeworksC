@@ -1,4 +1,4 @@
-#include<iostream>
+п»ї#include<iostream>
 #include<Windows.h>
 using namespace std;
 void main()
@@ -6,15 +6,15 @@ void main()
 	SetConsoleOutputCP(1251);
 	SetConsoleCP(1251);
 
-	//Введите три числа и вьведите на зкран
-	//значение суммь, произведения и среднее
-	//арифметическое зтих чисел.
+	//Р’РІРµРґРёС‚Рµ С‚СЂРё С‡РёСЃР»Р° Рё РІСЊРІРµРґРёС‚Рµ РЅР° Р·РєСЂР°РЅ
+	//Р·РЅР°С‡РµРЅРёРµ СЃСѓРјРјСЊ, РїСЂРѕРёР·РІРµРґРµРЅРёСЏ Рё СЃСЂРµРґРЅРµРµ
+	//Р°СЂРёС„РјРµС‚РёС‡РµСЃРєРѕРµ Р·С‚РёС… С‡РёСЃРµР».
 
 	int VarOne, VarTwo, VarThree;
-	cout << "ВВедіть 3 числа" << endl;
+	cout << "Р’Р’РµРґС–С‚СЊ 3 С‡РёСЃР»Р°" << endl;
 	cin >> VarOne >> VarTwo >> VarThree;
-	cout << "Cума всіх чисел = " << VarOne + VarTwo + VarThree<<endl;
-	cout << "Добуток всіх чисел = " << VarOne * VarTwo * VarThree<<endl;
-	cout << "AVG всіх чисел = " << (VarOne + VarTwo + VarThree)/3<<endl;
+	cout << "CСѓРјР° РІСЃС–С… С‡РёСЃРµР» = " << VarOne + VarTwo + VarThree<<endl;
+	cout << "Р”РѕР±СѓС‚РѕРє РІСЃС–С… С‡РёСЃРµР» = " << VarOne * VarTwo * VarThree<<endl;
+	cout << "AVG РІСЃС–С… С‡РёСЃРµР» = " << (VarOne + VarTwo + VarThree)/3<<endl;
 
 }
