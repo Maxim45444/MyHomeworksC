@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\ConsoleAppIf_Else\ConsoleAppIf_Else\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleAppIf_Else.vcxproj -> C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\ConsoleAppIf_Else\x64\Debug\ConsoleAppIf_Else.exe
