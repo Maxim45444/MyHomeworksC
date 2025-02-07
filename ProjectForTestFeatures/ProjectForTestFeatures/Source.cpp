@@ -1,13 +1,29 @@
 #include <iostream>
+#include <windows.h>
 
-int boo() // теперь уже не в main()
-{
-	std::cout << "boo!";
-	return 0;
-}
+using namespace std;
 
-int main()
+void main()
 {
-	boo();
-	return 0;
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+
+	int a;
+	cout << "Введіть число: " << endl;
+	cin >> a;
+
+	switch (a)
+	{
+	case 1:
+		cout << "Ви ввели 1" << endl;
+		break;
+
+	case 2:
+		cout << "Ви ввели 2" << endl;
+		break;
+
+	default:
+		cout << "Невідоме число" << endl;
+		break;
+	}
 }
