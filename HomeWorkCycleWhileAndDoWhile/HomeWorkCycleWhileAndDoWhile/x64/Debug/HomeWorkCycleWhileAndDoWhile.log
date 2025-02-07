@@ -1,5 +1,4 @@
 ﻿  Source.cpp
-C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\HomeWorkCycleWhileAndDoWhile\Source.cpp(30,33): warning C4101: 'result': unreferenced local variable
-C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\HomeWorkCycleWhileAndDoWhile\Source.cpp(30,40): warning C4101: 'temp': unreferenced local variable
-C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\HomeWorkCycleWhileAndDoWhile\Source.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\HomeWorkCycleWhileAndDoWhile\Source.cpp(32,33): warning C4101: 'result': unreferenced local variable
+C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\HomeWorkCycleWhileAndDoWhile\Source.cpp(46,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
   HomeWorkCycleWhileAndDoWhile.vcxproj -> C:\Users\Max\Desktop\Files\Projects\Programing\C++\MyHomeworksC\HomeWorkCycleWhileAndDoWhile\x64\Debug\HomeWorkCycleWhileAndDoWhile.exe

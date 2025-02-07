@@ -24,10 +24,12 @@ void TaskOne()
 			cout << attribute;
 		count--;
 	}	
+	Sleep(3000); // wait
 }
 void TaskTwo()
 {
-	int firstCounter, lastCounter, result,temp;
+	system("cls");
+	int firstCounter, lastCounter, result;
 	cout << "Програма находить суму всіх цілих непарних числе у відповідному діапазоні" << endl;
 	cout << "Введіть початкове значення діапазону = "; cin >> firstCounter;
 	cout << "Введіть кінцеве значення діапазону = "; cin >> lastCounter;
@@ -38,6 +40,7 @@ void TaskTwo()
 		}
 		firstCounter++;
 	}
+	Sleep(3000); // wait
 }
 void main()
 {
