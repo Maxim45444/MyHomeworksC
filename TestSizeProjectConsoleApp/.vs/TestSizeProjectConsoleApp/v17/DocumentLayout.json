@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max\\Desktop\\Files\\Projects\\Programing\\C\u002B\u002B\\MyHomeworksC\\TestSizeProjectConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A2074-2ECE-421B-8707-63A61BCB8435}|TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.vcxproj|C:\\Users\\Max\\Desktop\\Files\\Projects\\Programing\\C\u002B\u002B\\MyHomeworksC\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6A2074-2ECE-421B-8707-63A61BCB8435}|TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.vcxproj|solutionrelative:TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSizeProjectConsoleApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Max\\Desktop\\Files\\Projects\\Programing\\C\u002B\u002B\\MyHomeworksC\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp",
+              "RelativeDocumentMoniker": "TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp",
+              "ToolTip": "C:\\Users\\Max\\Desktop\\Files\\Projects\\Programing\\C\u002B\u002B\\MyHomeworksC\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp",
+              "RelativeToolTip": "TestSizeProjectConsoleApp\\TestSizeProjectConsoleApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T19:09:17.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
